@@ -1,5 +1,5 @@
 # practiseTest
-This is a repository
+This is a test repository
 
 
 
